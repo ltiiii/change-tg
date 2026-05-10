@@ -1,0 +1,17 @@
+{
+  "USDT": {
+    "buy": 98.5,
+    "sell": 96.5,
+    "network": "TRC20"
+  },
+  "BTC": {
+    "buy": 6350000,
+    "sell": 6200000,
+    "network": "BTC"
+  },
+  "ETH": {
+    "buy": 345000,
+    "sell": 338000,
+    "network": "ERC20"
+  }
+}
